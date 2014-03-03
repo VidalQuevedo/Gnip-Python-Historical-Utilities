@@ -4,4 +4,3 @@ data_files.txt
 *.swp
 *.bak
 get_data_files.bash
-data_files/
